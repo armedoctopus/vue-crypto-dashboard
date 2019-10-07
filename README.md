@@ -52,3 +52,5 @@ npm run lint
 ```
 npm run test:unit
 ```
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/329bf91a-da14-4e43-aad6-a6b55199f16f/deploy-status)](https://app.netlify.com/sites/dreamy-easley-79a691/deploys)
