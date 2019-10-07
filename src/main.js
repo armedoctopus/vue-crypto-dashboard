@@ -12,6 +12,7 @@ Vue.config.productionTip = false;
 Vue.directive("click-outside", clickOutside);
 
 new Vue({
+  el: '#app',
   router,
   store,
   render: h => h(App)
